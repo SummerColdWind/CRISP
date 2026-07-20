@@ -6,6 +6,8 @@ CCM mosaics without requiring additional hardware or extra operator actions.
 
 [![Watch the video](ag.bmp)](https://www.youtube.com/watch?v=GlodWj7dUPg)
 
+> Click on the picture to watch the demo video.
+
 ## Source Code Availability
 
 The project source code will be made public after the relevant patent
